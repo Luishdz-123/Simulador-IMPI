@@ -1,0 +1,18 @@
+body {
+  font-family: Arial, sans-serif;
+}
+
+#certificadoPreview {
+  border: 2px solid #ccc;
+  padding: 20px;
+  display: inline-block;
+  text-align: left;
+  background-color: #fff;
+  width: 100%;
+  max-width: 500px;
+}
+
+#certificadoPreview img {
+  max-width: 100px;
+  margin-bottom: 20px;
+}
